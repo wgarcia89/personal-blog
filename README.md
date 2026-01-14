@@ -7,7 +7,7 @@
 
 ### William Fernando Garcia Muñoz
 
-**CTO | Desarrollador | Experimentador de Agentes IA**
+**CTO** | **Programador** | **Experimentador de Agentes IA**
 
 💼 **LinkedIn:** [William Fernando Garcia Muñoz](https://www.linkedin.com/in/william-fernando-garcia-muñoz-78416a68)  
 🐙 **GitHub:** [@wgarcia89](https://github.com/wgarcia89)
@@ -22,7 +22,7 @@
 
 | Fecha | Título | Descripción |
 |-------|--------|-------------|
-| 2026-01-14 | [Mis etapas con Vibe Coding](./2026-01-14_mis-etapas-con-vibe-coding.md) | Reflexión sobre un año de desarrollo con IA: desde prototipos en Vercel hasta un workflow especializado con múltiples modelos en Cursor | 
+| 2026-01-14 | [Mis etapas con Vibe Coding](./2026-01-14_mis-etapas-con-vibe-coding.md) | Reflexión de prototipos en Vercel hasta un workflow especializado con múltiples modelos en Cursor | 
 | 2026-01-12 | [Markdown, GitHub y LLMs como sistema de publicación](./2026-01-12_markdown-GitHub-y-LLMs-como-sistema-de-publicacion.md) | Experimento de publicación usando GitHub y NotebookLM como sistema de blog optimizado para LLMs |
 | 2025-10-14 | [10 años del primer commit de Cluvi](./2025-10-14_10-años-del-primer-commit-de-Cluvi.md) | Reflexión sobre una década de desarrollo de software, desde Rails hasta LLMs y agentes inteligentes en Cluvi 
 ---
@@ -71,7 +71,7 @@ Este contenido está bajo licencia [CC BY 4.0 (Creative Commons Attribution 4.0 
 
 <div align="center">
 
-**Hecho con ❤️ y mucho ☕ por William Fernando Garcia Muñoz**
+**Hecho con** ❤️ **y mucho** ☕ por **William Fernando Garcia Muñoz**
 
 [⬆ Volver arriba](#-blog-personal---william-fernando-garcia-muñoz)
 
