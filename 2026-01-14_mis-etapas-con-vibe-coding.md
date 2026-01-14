@@ -50,6 +50,7 @@ El uso creció exponencialmente desde la semana 31 (finales de julio), exactamen
 1. Los prototipos rápidos tienen costo oculto.
 2. Un modelo no sirve para todo si consideras costo/beneficio.
 3. Vibe Coding aumentó mi productividad en proyectos nuevos; en etapa de mantenimiento no tanto.
+4. La productividad se incrementa con stack conocido.
 
 **¿Ustedes cómo combinan los modelos?** Me encantaría conocer otros enfoques.
 
