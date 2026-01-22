@@ -2,6 +2,8 @@
 
 Continuando con mi exploración de agentes con LangGraph, hoy quiero documentar la arquitectura y evolución de mi primer agente práctico real: **Mini-TPM**; nació de la rutina de dar soporte y mantenimiento a proyectos **Ruby on Rails** en **Cluvi**.
 
+**🔗 Repositorio:** [Mini-Technical-Product-Manager](https://github.com/wgarcia89/Mini-Technical-Product-Manager)
+
 **Nota de contexto:** este proyecto lo desarrollé originalmente en **abril de 2025**.
 
 Este proyecto no nació como ejercicio teórico. Nació de dos necesidades muy concretas:
