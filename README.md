@@ -5,9 +5,9 @@
 
 ## 👤 Contacto
 
-### William Fernando Garcia Muñoz
 
-**CTO** | **Programador** | **Experimentador de Agentes IA**
+
+
 
 💼 **LinkedIn:** [William Fernando Garcia Muñoz](https://www.linkedin.com/in/william-fernando-garcia-muñoz-78416a68)  
 🐙 **GitHub:** [@wgarcia89](https://github.com/wgarcia89)
@@ -21,10 +21,19 @@
 
 | Fecha | Título | Descripción |
 |-------|--------|-------------|
+| 2026-01-22 | [Desarrollando mi primer agente "Mini Technical Product Manager": un viaje en 5 etapas](./2026-01-22_desarrollando-mi-primer-agente-mini-technical-product-manager-un-viaje-en-5-etapas.md) | Desglose técnico del desarrollo de Mini-TPM, un agente LangGraph para análisis y desarrollo en proyectos Ruby on Rails. |
 | 2026-01-19 | [Mis primeros pasos con desarrollo de agentes](./2026-01-19_mis-primeros-pasos-con-desarrollo-de-agentes.md) | Aprendizajes reales sobre la construcción de agentes usando LangGraph y cómo la fricción impulsa el desarrollo. |
 | 2026-01-14 | [Mis etapas con Vibe Coding](./2026-01-14_mis-etapas-con-vibe-coding.md) | Reflexión de prototipos en Vercel hasta un workflow especializado con múltiples modelos en Cursor | 
 | 2026-01-12 | [Markdown, GitHub y LLMs como sistema de publicación](./2026-01-12_markdown-GitHub-y-LLMs-como-sistema-de-publicacion.md) | Experimento de publicación usando GitHub y NotebookLM como sistema de blog optimizado para LLMs |
 | 2025-10-14 | [10 años del primer commit de Cluvi](./2025-10-14_10-años-del-primer-commit-de-Cluvi.md) | Reflexión sobre una década de desarrollo de software, desde Rails hasta LLMs y agentes inteligentes en Cluvi 
+
+---
+
+## 🚀 Proyectos
+
+| Nombre | Descripción | Tecnologías | Repo |
+|--------|-------------|-------------|------|
+| **Mini-TPM** | Agente inteligente construido con LangGraph para análisis y desarrollo en proyectos Ruby on Rails. Capaz de analizar URLs, identificar repositorios, mapear rutas y proponer/aplicar cambios de código con validaciones de seguridad. | Python, LangGraph, Google Gemini, Ruby on Rails | [GitHub](https://github.com/wgarcia89/Mini-Technical-Product-Manager) |
 
 ---
 
